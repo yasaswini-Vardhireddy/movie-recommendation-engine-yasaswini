@@ -1,5 +1,8 @@
 # movie-recommendation-engine-yasaswini
 Content-Based Recommendation System
+
+
+
 NOTE:
 please download the similarity.pkl file which is needed to run the source code on system from here
 https://drive.google.com/drive/folders/1XwOP40GNSfWAnxgzTrHZ3S9aLLR1RDbk?usp=sharing
@@ -24,12 +27,15 @@ IMPORTING DATA:
 •	https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 PREPROCESSING OF DATA:
+
 ![image](https://user-images.githubusercontent.com/95837185/170835717-9fab9acf-593f-4448-88f3-963ce5f1ec8a.png)
 
 BUILDING OF MODEL:
+
 ![image](https://user-images.githubusercontent.com/95837185/170835634-d9af8da0-f861-489f-8b73-0e3e09344373.png)
 
 DEPLOYING OF WEBSITE:
+
 ![image](https://user-images.githubusercontent.com/95837185/170835746-fb3f2cab-0990-4e17-bac3-bede37ad90f9.png)
 
 
